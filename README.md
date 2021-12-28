@@ -1,4 +1,4 @@
-Heroku deployment url: [https://bwa-project.herokuapp.com](https://bwa-project.herokuapp.com)
+Heroku deployment url: [https://stzirn.github.io/](https://stzirn.github.io/)
 
 ## Demo login information
 
